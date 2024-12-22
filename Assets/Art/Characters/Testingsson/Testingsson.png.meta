@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 342942eaf156a7a4eb380b191278b719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6428428389218573078
+    second: Testingsson_0
+  - first:
+      213: 4295922708444715710
+    second: Testingsson_1
+  - first:
+      213: -4432309018838257349
+    second: Testingsson_2
+  - first:
+      213: 8069964131911456373
+    second: Testingsson_3
+  - first:
+      213: 965308239796849864
+    second: Testingsson_4
+  - first:
+      213: 7871449704287981894
+    second: Testingsson_5
+  - first:
+      213: -1049617820110155091
+    second: Testingsson_6
+  - first:
+      213: -7701926324587770836
+    second: Testingsson_7
+  - first:
+      213: 563049280134930790
+    second: Testingsson_8
+  - first:
+      213: 3720506200251380334
+    second: Testingsson_9
+  - first:
+      213: -7158795066060511988
+    second: Testingsson_10
+  - first:
+      213: 4614111196003967589
+    second: Testingsson_11
+  - first:
+      213: 936088150471171880
+    second: Testingsson_12
+  - first:
+      213: -1081180884491222262
+    second: Testingsson_13
+  - first:
+      213: 4142806526640791518
+    second: Testingsson_14
+  - first:
+      213: -627720579942151010
+    second: Testingsson_15
+  - first:
+      213: 8515692359977706431
+    second: Testingsson_16
+  - first:
+      213: 1076821852280010320
+    second: Testingsson_17
+  - first:
+      213: -248795179332522266
+    second: Testingsson_18
+  - first:
+      213: -1282707915012675167
+    second: Testingsson_19
+  - first:
+      213: 1716846205753914801
+    second: Testingsson_20
+  - first:
+      213: 3460013928063130967
+    second: Testingsson_21
+  - first:
+      213: 2507248788755720967
+    second: Testingsson_22
+  - first:
+      213: 2699116457580172960
+    second: Testingsson_23
+  - first:
+      213: 662799634263228552
+    second: Testingsson_24
+  - first:
+      213: 4526071306404391577
+    second: Testingsson_25
+  - first:
+      213: 3670760573785776343
+    second: Testingsson_26
+  - first:
+      213: -1281089943768514605
+    second: Testingsson_27
+  - first:
+      213: 8493973992213028215
+    second: Testingsson_28
+  - first:
+      213: -1346370665978036192
+    second: Testingsson_29
+  - first:
+      213: 1710526382386461123
+    second: Testingsson_30
+  - first:
+      213: 7951502307206495492
+    second: Testingsson_31
+  - first:
+      213: -6776944314700554742
+    second: Testingsson_32
+  - first:
+      213: 5891848809230885099
+    second: Testingsson_33
+  - first:
+      213: 1252652098115725107
+    second: Testingsson_34
+  - first:
+      213: 2473601393047432961
+    second: Testingsson_35
+  - first:
+      213: 8086966821383830569
+    second: Testingsson_36
+  - first:
+      213: -6116091524909541608
+    second: Testingsson_37
+  - first:
+      213: 5389571042905367539
+    second: Testingsson_38
+  - first:
+      213: -8185519361639551631
+    second: Testingsson_39
+  - first:
+      213: 2556295164107043306
+    second: Testingsson_40
+  - first:
+      213: 9162696770771083512
+    second: Testingsson_41
+  - first:
+      213: -7943154541018613877
+    second: Testingsson_42
+  - first:
+      213: -6163565201589517532
+    second: Testingsson_43
+  - first:
+      213: -1367383066859148022
+    second: Testingsson_44
+  - first:
+      213: -7734829690429354229
+    second: Testingsson_45
+  - first:
+      213: 3164062105150732559
+    second: Testingsson_46
+  - first:
+      213: -4809806919718652944
+    second: Testingsson_47
+  - first:
+      213: -3094061368022384055
+    second: Testingsson_48
+  - first:
+      213: -543385144163484225
+    second: Testingsson_49
+  - first:
+      213: -4049034555960528227
+    second: Testingsson_50
+  - first:
+      213: 1508292842818823866
+    second: Testingsson_51
+  - first:
+      213: 4220443320047641607
+    second: Testingsson_52
+  - first:
+      213: -6120062049782663874
+    second: Testingsson_53
+  - first:
+      213: 520610764837965150
+    second: Testingsson_54
+  - first:
+      213: 4418056857605718736
+    second: Testingsson_55
+  - first:
+      213: -5885034876836872107
+    second: Testingsson_56
+  - first:
+      213: 4083092908599805956
+    second: Testingsson_57
+  - first:
+      213: -1795261148427488040
+    second: Testingsson_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Testingsson_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae427947072a9c6a0800000000000000
+      internalID: -6428428389218573078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba916b41fe2e9b30800000000000000
+      internalID: 4295922708444715710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b2654e664d72c0800000000000000
+      internalID: -4432309018838257349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576d9b81f954eff60800000000000000
+      internalID: 8069964131911456373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc49dbcab6756d00800000000000000
+      internalID: 965308239796849864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64150732dc10d3d60800000000000000
+      internalID: 7871449704287981894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21a6a57220f61f0800000000000000
+      internalID: -1049617820110155091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c47b870d24d1590800000000000000
+      internalID: -7701926324587770836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616b7d465a50d700800000000000000
+      internalID: 563049280134930790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e623f925da4e1a330800000000000000
+      internalID: 3720506200251380334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 32, y: -31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e4abf0d9d6ac90800000000000000
+      internalID: -7158795066060511988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 20
+        height: 34
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56228f7afad980040800000000000000
+      internalID: 4614111196003967589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f59479637adfc00800000000000000
+      internalID: 936088150471171880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 24
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0345f1c6bfdef0f0800000000000000
+      internalID: -1081180884491222262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 37
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf189126943e7930800000000000000
+      internalID: 4142806526640791518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c88565573e947f0800000000000000
+      internalID: -627720579942151010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 34
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3aaf45511dd2670800000000000000
+      internalID: 8515692359977706431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0563787f4c3a1fe00800000000000000
+      internalID: 1076821852280010320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 32, y: -31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee2e024a1a1c8cf0800000000000000
+      internalID: -248795179332522266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9661782f7e23ee0800000000000000
+      internalID: -1282707915012675167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 37
+        width: 33
+        height: 26
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b570f3278673d710800000000000000
+      internalID: 1716846205753914801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.375, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d5b1ce550740030800000000000000
+      internalID: 3460013928063130967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b20594d798bc220800000000000000
+      internalID: 2507248788755720967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 69
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a61a7d1e10357520800000000000000
+      internalID: 2699116457580172960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c48571ccb23900800000000000000
+      internalID: 662799634263228552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 69
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a625e7fd5dfce30800000000000000
+      internalID: 4526071306404391577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 69
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0a2081b4921f230800000000000000
+      internalID: 3670760573785776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 69
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3a50db77a83ee0800000000000000
+      internalID: -1281089943768514605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 69
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d9349c758a0e570800000000000000
+      internalID: 8493973992213028215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 69
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 32, y: -31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0208f5e330bb05de0800000000000000
+      internalID: -1346370665978036192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 69
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c934199ea20db710800000000000000
+      internalID: 1710526382386461123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 69
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dfdb33839695e60800000000000000
+      internalID: 7951502307206495492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e9ba33d0573f1a0800000000000000
+      internalID: -6776944314700554742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7368421, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0e380964d04c150800000000000000
+      internalID: 5891848809230885099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_34
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 101
+        width: 41
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2195122, y: 0.6956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e5574270526110800000000000000
+      internalID: 1252652098115725107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 101
+        width: 29
+        height: 21
+      alignment: 9
+      pivot: {x: -0.03448276, y: 0.7619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe08c7c5ff35220800000000000000
+      internalID: 2473601393047432961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 101
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: -0.05, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf3fa3a7daa3070800000000000000
+      internalID: 8086966821383830569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 101
+        width: 13
+        height: 29
+      alignment: 9
+      pivot: {x: 0.07692308, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8175dfb99274f1ba0800000000000000
+      internalID: -6116091524909541608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 32, y: -31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f32b10fe4a9bca40800000000000000
+      internalID: 5389571042905367539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d64636281376e80800000000000000
+      internalID: -8185519361639551631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 101
+        width: 36
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae136ad68e8c97320800000000000000
+      internalID: 2556295164107043306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.84210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0ed6eba20782f70800000000000000
+      internalID: 9162696770771083512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 133
+        width: 33
+        height: 14
+      alignment: 9
+      pivot: {x: 0.6666667, y: 1.1428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87fd82970f34c190800000000000000
+      internalID: -7943154541018613877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 133
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.67857146, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4234c49ea1e967aa0800000000000000
+      internalID: -6163565201589517532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 133
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de9fb6854160de0800000000000000
+      internalID: -1367383066859148022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 133
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.7619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f40df906d58a490800000000000000
+      internalID: -7734829690429354229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testingsson_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 133
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 32, y: -31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b8c088b109eb20800000000000000
+      internalID: 3164062105150732559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Testingsson_0: -6428428389218573078
+      Testingsson_1: 4295922708444715710
+      Testingsson_10: -7158795066060511988
+      Testingsson_11: 4614111196003967589
+      Testingsson_12: 936088150471171880
+      Testingsson_13: -1081180884491222262
+      Testingsson_14: 4142806526640791518
+      Testingsson_15: -627720579942151010
+      Testingsson_16: 8515692359977706431
+      Testingsson_17: 1076821852280010320
+      Testingsson_18: -248795179332522266
+      Testingsson_19: -1282707915012675167
+      Testingsson_2: -4432309018838257349
+      Testingsson_20: 1716846205753914801
+      Testingsson_21: 3460013928063130967
+      Testingsson_22: 2507248788755720967
+      Testingsson_23: 2699116457580172960
+      Testingsson_24: 662799634263228552
+      Testingsson_25: 4526071306404391577
+      Testingsson_26: 3670760573785776343
+      Testingsson_27: -1281089943768514605
+      Testingsson_28: 8493973992213028215
+      Testingsson_29: -1346370665978036192
+      Testingsson_3: 8069964131911456373
+      Testingsson_30: 1710526382386461123
+      Testingsson_31: 7951502307206495492
+      Testingsson_32: -6776944314700554742
+      Testingsson_33: 5891848809230885099
+      Testingsson_34: 1252652098115725107
+      Testingsson_35: 2473601393047432961
+      Testingsson_36: 8086966821383830569
+      Testingsson_37: -6116091524909541608
+      Testingsson_38: 5389571042905367539
+      Testingsson_39: -8185519361639551631
+      Testingsson_4: 965308239796849864
+      Testingsson_40: 2556295164107043306
+      Testingsson_41: 9162696770771083512
+      Testingsson_42: -7943154541018613877
+      Testingsson_43: -6163565201589517532
+      Testingsson_44: -1367383066859148022
+      Testingsson_45: -7734829690429354229
+      Testingsson_46: 3164062105150732559
+      Testingsson_5: 7871449704287981894
+      Testingsson_6: -1049617820110155091
+      Testingsson_7: -7701926324587770836
+      Testingsson_8: 563049280134930790
+      Testingsson_9: 3720506200251380334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

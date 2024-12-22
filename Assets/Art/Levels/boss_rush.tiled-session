@@ -5,16 +5,17 @@
     },
     "activeFile": "Tilesets/Prototype Env.tsx",
     "expandedProjectPaths": [
-        "Tilesets",
-        "."
+        ".",
+        "Maps",
+        "Tilesets"
     ],
     "fileStates": {
         "Maps/demo.tmx": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 418,
-                "y": 190.66666666666669
+                "x": 455.33333333333337,
+                "y": 289.33333333333337
             }
         },
         "Tilesets/Prototype Env.tsx": {
