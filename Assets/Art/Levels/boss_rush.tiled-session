@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tilesets/Prototype Env.tsx",
+    "expandedProjectPaths": [
+        "Tilesets",
+        "."
+    ],
+    "fileStates": {
+        "Maps/demo.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 418,
+                "y": 190.66666666666669
+            }
+        },
+        "Tilesets/Prototype Env.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "E:/All Projects/Unity Projects/boss-rush/Assets/Art/Levels/Tilesets",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Maps/demo.tmx",
+        "Tilesets/Prototype Env.tsx"
+    ],
+    "project": "boss_rush.tiled-project",
+    "recentFiles": [
+        "Maps/demo.tmx",
+        "Tilesets/Prototype Env.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
